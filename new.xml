@@ -1,0 +1,9 @@
+<xml version='1.0'?>
+        <Questionnaire>
+           <NAME>Aydar</NAME>
+           <SURNAME>Niyazov</SURNAME>
+           <PARONYIC>Galievich</PRONYIC>
+           <AGE>32</AGE>
+           <PEST>0</PEST>
+           <SALARY>700$</SALARY>
+        </Questionnaire>
