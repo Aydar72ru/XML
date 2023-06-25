@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="windows-1251"?>
+        <bug>
+        <Summary>Error messages in the login form displayed in Enlish</Summary>
+        <Environment>All browsers / devices</Environment>
+        <Severity>Major</Severity>
+        <StepsToReproducer>
+                <1>Openfront end https://www.test-obeink.be:8443</1>
+                <2>Follow inloggen link</2>
+                <3>Fill required flelds with invalid data</3>
+                <4>Click inloggen button</4>
+                <5>>Pay attention to error messages</5>
+        </StepsToReproducer>
+        <Actual_result>Error messages in the login from are displaed in Englis
+        <Actual_result>
+        <Expected_result>Error messages in the login from are displaed in chosenlanguage
+        </Expected_result>
+        <Attachment>https://www.prntscr.com/k905cq</Attachment>
+        </bug>
+
